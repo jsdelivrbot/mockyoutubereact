@@ -19,7 +19,7 @@ class App extends Component {
 			selectedVideo: null
 		};
 
-		this.videoSearch('wyncode');
+		this.videoSearch('pusheen');
 	}
 
 videoSearch(term) {
